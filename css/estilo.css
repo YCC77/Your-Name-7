@@ -1,0 +1,55 @@
+body{
+    background-image: url('../img/fondo%204.jpg');
+}
+.contenedor{
+    background: #DEE8E6;
+    width: 900px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+}
+
+h3{
+    font-size: 32px;
+    font-family: Gill Sans;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: Gill Sans;
+    
+}
+
+h5{
+    font-size: 20px;
+    font-family: Gill Sans;
+    
+}
+
+h4{
+    font-size: 30px;
+    font-family: Gill Sans;
+    
+}
+
+.img{
+    width: 700px;
+}
+
+.mapa{
+    width: 400px;
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    color: #000000;
+}
